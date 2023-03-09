@@ -1,0 +1,42 @@
+.a{
+    color: brown;
+}
+.b{
+    color: black;
+    background-color: cornsilk;
+}
+.c{
+border-left: 1px solid purple;
+}
+.d{
+    color: darkgreen;
+    font-size: larger;
+}
+.e{
+   border-bottom: 3px solid brown;
+   font-size: larger;
+}
+.f{
+    border-style: dashed;
+    font-size: larger;
+}
+.g{
+    background-color: blue;
+    font-size: larger;
+}
+.h{
+    font-size: xx-large;
+}
+.o{
+    color: white;
+    background-color: green;
+    border: 1px solid rgb(0, 2, 1);
+    border-radius: 6px;
+    font-size: medium;
+    width: 8%;
+    height: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.5%;
+    padding-bottom:0.5%;
+}
